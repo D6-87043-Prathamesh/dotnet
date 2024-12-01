@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CDAC\\DOTNET\\dotnet\\Assignment07_13\\Assignment07_13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6593BE9B-436B-4746-A5CA-3EBC6EAD6C7C}|Assignment17\\Assignment17.csproj|e:\\cdac\\dotnet\\dotnet\\assignment07_13\\assignment07_13\\assignment17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6593BE9B-436B-4746-A5CA-3EBC6EAD6C7C}|Assignment17\\Assignment17.csproj|solutionrelative:assignment17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D664290A-4186-4A51-A4EB-CF429D227A31}|EyployeeLib\\EyployeeLib.csproj|e:\\cdac\\dotnet\\dotnet\\assignment07_13\\assignment07_13\\eyployeelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D664290A-4186-4A51-A4EB-CF429D227A31}|EyployeeLib\\EyployeeLib.csproj|solutionrelative:eyployeelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD0C46C-3F43-4A52-A93A-2DB28293C209}|Assignment14\\Assignment14.csproj|e:\\cdac\\dotnet\\dotnet\\assignment07_13\\assignment07_13\\assignment14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD0C46C-3F43-4A52-A93A-2DB28293C209}|Assignment14\\Assignment14.csproj|solutionrelative:assignment14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\DOTNET\\dotnet\\Assignment07_13\\Assignment07_13\\Assignment17\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment17\\Program.cs",
+              "ToolTip": "E:\\CDAC\\DOTNET\\dotnet\\Assignment07_13\\Assignment07_13\\Assignment17\\Program.cs",
+              "RelativeToolTip": "Assignment17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:22:01.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\DOTNET\\dotnet\\Assignment07_13\\Assignment07_13\\Assignment14\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment14\\Program.cs",
+              "ToolTip": "E:\\CDAC\\DOTNET\\dotnet\\Assignment07_13\\Assignment07_13\\Assignment14\\Program.cs",
+              "RelativeToolTip": "Assignment14\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:14:58.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\CDAC\\DOTNET\\dotnet\\Assignment07_13\\Assignment07_13\\EyployeeLib\\Class1.cs",
+              "RelativeDocumentMoniker": "EyployeeLib\\Class1.cs",
+              "ToolTip": "E:\\CDAC\\DOTNET\\dotnet\\Assignment07_13\\Assignment07_13\\EyployeeLib\\Class1.cs",
+              "RelativeToolTip": "EyployeeLib\\Class1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwHABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:57:26.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
