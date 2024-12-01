@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CDAC\\DOTNET\\dotnet\\Assignment18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB477FFF-8D6D-4FFA-967D-5BAF42118227}|Assignment18\\Assignment18.csproj|e:\\cdac\\dotnet\\dotnet\\assignment18\\assignment18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB477FFF-8D6D-4FFA-967D-5BAF42118227}|Assignment18\\Assignment18.csproj|solutionrelative:assignment18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC80EDB2-6123-4EBC-800A-B120D325B175}|MathLib\\MathLib.csproj|e:\\cdac\\dotnet\\dotnet\\assignment18\\mathlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC80EDB2-6123-4EBC-800A-B120D325B175}|MathLib\\MathLib.csproj|solutionrelative:mathlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\CDAC\\DOTNET\\dotnet\\Assignment18\\MathLib\\Class1.cs",
+              "RelativeDocumentMoniker": "MathLib\\Class1.cs",
+              "ToolTip": "E:\\CDAC\\DOTNET\\dotnet\\Assignment18\\MathLib\\Class1.cs",
+              "RelativeToolTip": "MathLib\\Class1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:56:51.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\DOTNET\\dotnet\\Assignment18\\Assignment18\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment18\\Program.cs",
+              "ToolTip": "E:\\CDAC\\DOTNET\\dotnet\\Assignment18\\Assignment18\\Program.cs",
+              "RelativeToolTip": "Assignment18\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:49:31.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
